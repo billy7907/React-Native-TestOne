@@ -7,7 +7,6 @@
  */
 
 import React from 'react';
-import type {Node} from 'react';
 import FileList from './src/index';
 import {
   SafeAreaView,
